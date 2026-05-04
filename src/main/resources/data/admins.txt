@@ -1,0 +1,4 @@
+ADMIN_1713606000000_1|admin1|admin@bookstore.com|9876543210|admin123
+ADMIN_1713606000000_2|admin2|superadmin@bookstore.com|9876543211|password456
+ADMIN_1776703130389_1|dilshan|dilshan@gmail.com|0764792982|@Dilshan#1
+ADMIN_1776791662823_1|usernameee|username@gmail.com|0764792982|username

@@ -1,0 +1,4 @@
+BOOK_1776704579998_1|lakshitha|author laki|250.0|Business|meka test ekak|https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?semt=ais_hybrid&w=740&q=80|true
+BOOK_1776708132104_1|thawa|thawa|23.0|Romantic|thawathawa|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDF8igV39XNIx-NZnDWuMYjZvunthG1ErgpA&s|false
+BOOK_1776710024009_1|newnewnew|newnewnewnew|43.0|Business|kjkknk|https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=1200|true
+BOOK_1776791846616_1|Madol duuwaaa|Martin Wickramasighe|250.0|Adventure|famous Book|https://img.drz.lazcdn.com/static/lk/p/8827f294908d649d032577056fbf098b.jpg_720x720q80.jpg|true
